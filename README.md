@@ -19,7 +19,7 @@
 ℹ️ [Website/Portifolio](https:/felipesilvaengineer.com) 
 
 
-##😀 About me
+## 😀 About me
 
 Hello Everyone, I'm Felipe Ramos da Silva, I'm Brazilian whom currently live 
 
@@ -40,7 +40,7 @@ smart meteorological stations, to give insights and advice to runners.
 💻 Developed together with a team in CSG International, a billing platform and application for the Telefonica telco
 company, where I was responsbile for the final delivery and go-live. 
 
-##⚙️ Technologies and Tools
+## ⚙️ Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -66,7 +66,7 @@ company, where I was responsbile for the final delivery and go-live.
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 
-##🚧 Latest Projects
+## 🚧 Latest Projects
 
 ### [MFinance](https://mfinance.me)
 
@@ -115,7 +115,7 @@ Here is a screenshot of the project:
 
 [Check the deployed production application](https://exchange.tokenizer.cc)
 
-##✍️ Blog and Writing 
+## ✍️ Blog and Writing 
 
 Apart from coding, I also maintain some technical/social articles on LinkedIn/Medium, and there is 
 also my channel on youtube with some tutorials.
