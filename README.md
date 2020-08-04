@@ -1,4 +1,4 @@
-![background](./background.png)
+![background](https://showerio-public.s3.amazonaws.com/background.png)
 
 
 
@@ -88,7 +88,7 @@ SSL configuration.
 
 Here is a screenshot of the project:
 
-![background](./mfinance.png)
+![background](https://showerio-public.s3.amazonaws.com/mfinance.png)
 
 [Check the deployed production application](https://mfinance.me)
 
@@ -111,7 +111,7 @@ to Ethereum mainet to process the transactions.
 
 Here is a screenshot of the project:
 
-![background](./exchange.png)
+![background](https://showerio-public.s3.amazonaws.com/exchange.png)
 
 [Check the deployed production application](https://exchange.tokenizer.cc)
 
