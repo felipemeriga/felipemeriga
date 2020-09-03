@@ -66,6 +66,9 @@ company, where I was responsbile for the final delivery and go-live.
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Crypto-Blockchain-informational?style=flat&logo=blockchain&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Crypto-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Crypto-ERC20-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 
 ## 🚧 Latest Projects
 
