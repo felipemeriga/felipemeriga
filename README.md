@@ -4,13 +4,15 @@
 
 # Hello, Folks! I'm Felipe Ramos ✌️
 
-💻 Senior DevOps Engineer [Accenture](https://www.accenture.com/us-en) 
+💻 Senior Software Engineer [X-Team](https://x-team.com/) 
 
-💻 Senior DevOps/Fullstack Engineer [Tokenizer](https://tokenizer.cc/)
+💻 Senior Blockchain/Fullstack Engineer [Tokenizer](https://tokenizer.cc/)
 
 🚀 Helping Brazilian People at Getting a job Abroad on my instagram: [@felipemeriga](https://www.instagram.com/felipemeriga/)
 
 👨 CTO on [IO-Shower](https://merigadon2.wixsite.com/meusite)
+
+📹 YouTuber https://www.youtube.com/channel/UC-CGMi3Ob519IBaAX3irrTA
 
 ✈️ Digital Nomad Enthusiast
 
@@ -23,7 +25,7 @@
 
 Hello Everyone, I'm Felipe Ramos da Silva, I'm Brazilian whom currently live 
 
-in Ireland and work as a Senior DevOps Engineer. Mainly of my professionals experiences are focused in Full Stack Web Development, Cloud Infrastructure and IoT. In Brazil I was one of the founders of a startup called IO-Shower, aimed at producing IoT devices.
+in Ireland and work as a Senior Software Engineer. Mainly of my professionals experiences are focused in Full Stack Web Development, Cloud Infrastructure and IoT. In Brazil I was one of the founders of a startup called IO-Shower, aimed at producing IoT devices.
 
 I truly believe that every person, regardless the level of knowledge, has something to teach us, and that never stop learning is one of the most important core values in your life.
 
