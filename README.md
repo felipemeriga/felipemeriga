@@ -2,7 +2,7 @@
 
 💻 Owner of Rust Async Websockets library: [Socket-Flow](https://github.com/felipemeriga/socket-flow)
 
-💻 Senior Software Engineer [X-Team](https://x-team.com/) 
+💻 Senior Software Engineer [Kake](https://kake.co/) 
 
 💻 Senior Blockchain/Fullstack Engineer [Tokenizer](https://tokenizer.cc/)
 
