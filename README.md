@@ -1,118 +1,71 @@
-# Hello, Folks! I'm Felipe Ramos ✌️
+# Hi, I'm Felipe Ramos 👋
 
-💻 Owner of Rust Async Websockets library: [Socket-Flow](https://github.com/felipemeriga/socket-flow)
+**Senior Rust & Go Engineer** — Real-Time Media · Distributed Systems · AI Applications
 
-💻 Senior Software Engineer [Kake](https://kake.co/) 
+I build low-latency, high-throughput systems: real-time media pipelines, distributed backends, and applied-AI tooling. I'm currently a Senior Engineer at [Kake](https://kake.co/) — embedded with [Cosm](https://www.cosm.com/) — building GPU-accelerated live-sports streaming in Rust. On the side, I ship open-source and AI products around agentic workflows, long-term memory, and RAG.
 
-💻 Senior Blockchain/Fullstack Engineer [Tokenizer](https://tokenizer.cc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipersil-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/felipersil/)
+[![Blog](https://img.shields.io/badge/Blog-hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2bbc8a)](https://felipemeriga.hashnode.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-felipemerigadon-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)](https://www.youtube.com/@felipemerigadon)
+[![Medium](https://img.shields.io/badge/Medium-@felipe.meriga-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://medium.com/@felipe.meriga)
 
-🚀 Helping Brazilian People at Getting a job Abroad on my instagram: [@felipemeriga](https://www.instagram.com/felipemeriga/)
+---
 
-📹 YouTuber https://www.youtube.com/@felipemerigadon
+## 🔭 What I'm working on
 
-✈️ Digital Nomad Enthusiast
+- ⚡ **Real-time media** — GPU-accelerated 8K live-sports streaming in Rust at Cosm: fisheye ingestion, lens de-distortion, and virtual-camera views that track players and the ball.
+- 🧠 **Applied AI** — agentic workflows, long-term memory, and RAG pipelines for developer tools and products.
+- 🦀 **Open source** — async networking and systems tooling in Rust.
 
-💬 [LinkedIn](https://www.linkedin.com/in/felipersil/) 
+## 🚀 Featured projects
 
-ℹ️ [Website/Blog](https://felipemeriga.hashnode.dev/) 
+### 🧠 [Kioku](https://github.com/felipemeriga/kioku) — *second brain for your repos*
+Self-hosted, persistent memory for AI coding assistants: agentic RAG with hybrid semantic + keyword search, document ingestion (PDF/DOCX/Markdown), GitHub & Notion integration, and MCP that streams repo context into every coding session.
+`Python · FastAPI · React · RAG · MCP`
 
-ℹ️ [Medium](https://medium.com/@felipe.meriga)
+### 🎯 [RoleMiner](https://roleminer.app/) — *AI job-search agent*
+Searches 1,200+ ATS systems, tailors your CV per role, and delivers a daily digest of matching senior backend, infrastructure, and AI openings.
+`LLMs · RAG · persistent memory`
 
+### 🔌 [Socket-Flow](https://github.com/felipemeriga/socket-flow) — *async WebSockets for Rust*
+A straightforward, high-performance async WebSockets library for Rust.
+`Rust · Tokio · async`
 
-## 😀 About me
+### ⛓️ [Artemis-Network](https://github.com/felipemeriga/artemis-network) — *a blockchain from scratch*
+A proof-of-work network in Rust, built to teach distributed-systems, P2P networking, and consensus fundamentals from the ground up.
+`Rust · P2P · Distributed Systems`
 
-Hello Everyone, I'm Felipe Ramos da Silva, I'm Brazilian whom currently live 
+---
 
-In Brazil and work as a Senior Software Engineer.
-Mainly of my professionals experiences are focused on Full Stack Web Development,
-Cloud Infrastructure, and Blockchain.
-In Brazil, I was one of the founders of a startup called IO-Shower,
-aimed at producing IoT devices.
+## 🛠️ Tech I work with
 
-### Highlights
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=2bbc8a)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![gRPC](https://img.shields.io/badge/Proto-gRPC-informational?style=flat&logo=grpc&logoColor=white&color=2bbc8a)
+![WebRTC](https://img.shields.io/badge/Media-WebRTC-informational?style=flat&logo=webrtc&logoColor=white&color=2bbc8a)
 
-💻 Owner of [Socket-flow](https://github.com/felipemeriga/socket-flow) an open-source async websockets Rust library.
+---
 
-🚿 Founded IO-Shower startup in 2018, aimed at producing smart devices to control commercial shower, where
-until the end of 2019, we delivered three successful projects using our IoT platform and devices.
+## 📊 GitHub
 
-🌡️ One of business partners of [Airtrak](https://www.instagram.com/airtrak/), a Brazilian company aimed to produce
-smart meteorological stations, to give insights and advice to runners.
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemeriga&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemeriga&layout=compact&hide_border=true)
 
-📷 I'm currently helping thousands of Brazilian people to get a job abroad, with my Instagram profile.
+---
 
+## 📫 Beyond code
 
-## ⚙️ Technologies and Tools
-![](https://img.shields.io/badge/Code-rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Crypto-Blockchain-informational?style=flat&logo=blockchain&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Crypto-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Crypto-ERC20-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Crypto-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
-
-## 🚧 Latest Projects
-
-### [Socket-Flow](https://github.com/felipemeriga/socket-flow)
-Straightforward async Websockets library for Rust.
-
-### [Artemis-Network](https://github.com/felipemeriga/artemis-network)
-A proof-of-work based blockchain network, with a focus on helping developers to learn how to build a blockchain from scratch.
-
-### [NGO-DAO](https://github.com/felipemeriga/ngo-dao)
-A decentralized application (dApp) interface for managing an NGO's decentralized autonomous organization (DAO). This platform enables volunteers to contribute ETH and participate in democratic decision-making for fund allocation.
-
-### [Emberblast](https://github.com/felipemeriga/Emberblast)
-
-This is an Open Source Python Command Line RPG Arena game,
-that has custom configuration, where players can create their own equipments, spells, and classes.
-
-## ✍️ Blog and Writing 
-
-Apart from coding, I also maintain some technical/social articles on my blog, and there is 
-also my channel on YouTube with some tutorials.
-
-📚[My Blog](https://felipemeriga.hashnode.dev/)
-
-Check out also, my [YouTube channel](https://www.youtube.com/@felipemerigadon), where I have a lot of courses.
-
-## Working with me
-
-With the mentality of absorbing and learning everything from all the situations present in my life, mainly in the
- professional scope, I try to develop myself through work experiences to improve my technical knowledge.
-
-Not only of technical attributes are made a professional, but the ability to communicate, teamwork, and strategic planning are the key to achieving goals accurately. Thus, I believe that every person regardless of its level of knowledge has something to teach us, and that interpersonal relationships contribute to the development of countless sectors of our lives.
-
-Therefore, I believe that having contact with people is a primordial step to thrive in your
-career, creating this network of helping and being helped by others will create a clear path for you.
-
-Working in a team, even that I know how to do my job, I try to talk with each other of the team to check
-if they really understand what the current project/task is about, and if I can help at some point.
-
-
-## Repositories
-
-Most of my repositories are public, and meant to be opensource applications; they are mainly focused in the following areas:
-- Backend
-- Frontend
-- Blockchain
-- Infrastructure as Code/Configuration Management
-- Internet of Things
-- Mobile applications
-
-
+- ✈️ Digital-nomad enthusiast, currently based in Brazil.
+- 📷 I help Brazilian engineers land jobs abroad on Instagram: [@felipemeriga](https://www.instagram.com/felipemeriga/)
+- 📹 I share courses and tutorials on my [YouTube channel](https://www.youtube.com/@felipemerigadon).
