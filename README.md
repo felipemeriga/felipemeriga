@@ -8,6 +8,7 @@ I build low-latency, high-throughput systems: real-time media pipelines, distrib
 [![Blog](https://img.shields.io/badge/Blog-hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2bbc8a)](https://felipemeriga.hashnode.dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-felipemerigadon-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)](https://www.youtube.com/@felipemerigadon)
 [![Medium](https://img.shields.io/badge/Medium-@felipe.meriga-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://medium.com/@felipe.meriga)
+[![Medium]([https://img.shields.io/badge/Medium-@felipe.meriga-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a](https://img.shields.io/badge/Website-informational?style=flat&logo=web))]([https://medium.com/@felipe.meriga](https://felipe.merigafy.com))
 
 ---
 
@@ -69,3 +70,6 @@ A proof-of-work network in Rust, built to teach distributed-systems, P2P network
 - ✈️ Digital-nomad enthusiast, currently based in Brazil.
 - 📷 I help Brazilian engineers land jobs abroad on Instagram: [@felipemeriga](https://www.instagram.com/felipemeriga/)
 - 📹 I share courses and tutorials on my [YouTube channel](https://www.youtube.com/@felipemerigadon).
+- 🌐 [Portifolio/Website](https://felipe.merigafy.com).
+
+
