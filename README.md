@@ -24,7 +24,7 @@ I build low-latency, high-throughput systems: real-time media pipelines, distrib
 Self-hosted, persistent memory for AI coding assistants: agentic RAG with hybrid semantic + keyword search, document ingestion (PDF/DOCX/Markdown), GitHub & Notion integration, and MCP that streams repo context into every coding session.
 `Python · FastAPI · React · RAG · MCP`
 
-### 🎯 [RoleMiner](https://roleminer.app/) — *AI job-search agent*
+### 🎯 [Zeeker](https://zeeker.business/) — *AI job-search agent*
 Searches 1,200+ ATS systems, tailors your CV per role, and delivers a daily digest of matching senior backend, infrastructure, and AI openings.
 `LLMs · RAG · persistent memory`
 
